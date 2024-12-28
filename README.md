@@ -23,7 +23,7 @@ I am passionate about computer science, software development, and learning new t
 
 | Projet/Project      | Description                     | Technologies     | Lien/Link          |
 |----------------------|---------------------------------|------------------|--------------------|
-| [Snake](https://github.com/LeDesert/snake-mips32) |  (FR) Snake entièrement développé en MIPS32 sur le simulateur MARS. Ce projet pédagogique met en valeur des compétences avancées en programmation bas-niveau et utilise le simulateur MARS pour proposer une implémentation du jeu Snake avec un système de score. (EN) Snake fully implemented in MIPS32 on the MARS simulator. This educational project highlights advanced low-level programming skills and leverages the MARS simulator to deliver an implementation of the Snake game with a scoring system. | MIPS32 | [Lien/Link](https://github.com/LeDesert/snake-mips32) |
+| [Snake](https://github.com/LeDesert/snake-mips32) |  (FR) Snake entièrement développé en MIPS32 sur le simulateur MARS. Ce projet pédagogique met en valeur des compétences avancées en programmation bas-niveau et utilise le simulateur MARS pour proposer une implémentation du jeu Snake avec un système de score. <br> (EN) Snake fully implemented in MIPS32 on the MARS simulator. This educational project highlights advanced low-level programming skills and leverages the MARS simulator to deliver an implementation of the Snake game with a scoring system. | MIPS32 | [Lien/Link](https://github.com/LeDesert/snake-mips32) |
 
 
 ---
