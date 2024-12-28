@@ -18,18 +18,17 @@ I am passionate about computer science, software development, and learning new t
   I am passionate about software development (both heavy and lightweight applications).  
 
 ---
-<!-- SECTION EN COURS
+ SECTION EN COURS
 ## 📂 Mes Projets | My Projects
 
 | Projet/Project      | Description                     | Technologies     | Lien/Link          |
 |----------------------|---------------------------------|------------------|--------------------|
-| [Projet 1](https://github.com/) | [Description du projet 1.] | [Python, Flask] | [Lien/Link](https://github.com/) |
-| [Projet 2](https://github.com/) | [Description du projet 2.] | [React, Node.js] | [Lien/Link](https://github.com/) |
-| [Projet 3](https://github.com/) | [Description du projet 3.] | [Java, Spring] | [Lien/Link](https://github.com/) |
+| [Projet 1](https://github.com/) | [Snake en assembleur w/gui] | [MIPS32] | [Lien/Link](https://github.com/LeDesert/snake-mips32) |
+
 
 ---
 
--->
+
 ## 🛠️ Compétences Techniques | Technical Skills
 
 - **Langages de programmation | Programming Languages** : HTML, CSS, C#, C, Java, Python, SQL, PHP, MIPS32.  
