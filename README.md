@@ -53,8 +53,8 @@ I am passionate about computer science, software development, and learning new t
 
 - Rechercher des opportunités de stage pour acquérir de l'expérience professionnelle.  
   Seek internship opportunities to gain professional experience.  
-- Travailler sur des projets réels pour améliorer mes compétences techniques et collaborer avec des professionnels de l'industrie.  
-  Work on real-world projects to improve my technical skills and collaborate with industry professionals.  
+- Travailler sur des projets réels pour améliorer mes compétences techniques et collaborer en équipe.  
+  Work on real-world projects to improve my technical skills and collaborate in a team
 - Explorer des environnements de travail collaboratifs et appliquer mes connaissances en informatique dans des projets pratiques.  
   Explore collaborative work environments and apply my computer science knowledge to practical projects.  
 
