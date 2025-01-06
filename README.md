@@ -18,7 +18,7 @@ I am passionate about computer science, software development, and learning new t
   I am passionate about software development (both heavy and lightweight applications).  
 
 ---
- SECTION EN COURS
+
 ## 📂 Mes Projets | My Projects
 
 | Projet/Project      | Description                     | Technologies     | Lien/Link          |
