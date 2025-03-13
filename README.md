@@ -35,8 +35,8 @@ I am passionate about computer science, software development, and learning new t
 
 ## 🛠️ Compétences Techniques | Technical Skills
 
-- **Langages de programmation | Programming Languages** : HTML, CSS, C#, C, Java, Python, SQL, PHP, MIPS32.  
-- **Frameworks & Outils | Frameworks & Tools** : Git, Laravel, .Net.  
+- **Langages de programmation | Programming Languages** : HTML, CSS, C#, C, Java, Python, SQL, PHP, MIPS32, TypeScript.  
+- **Frameworks & Outils | Frameworks & Tools** : Git, Laravel, .Net., Express JS
 - **Bases de données | Databases** : MySQL, SQLite, Access.  
 - **Autres compétences | Other Skills** : Algorithmique, utilisation d’outils de tests automatisés (jUnit, xUnit), architecture logicielle, Systèmes bas niveau (Linux, Windows, UDP, TCP/IP, http), user experience (UX).
 
